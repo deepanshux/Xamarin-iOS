@@ -1,0 +1,325 @@
+﻿{
+  "products": [
+    {
+      "category_id": "1",
+      "id": 1,
+      "name": "WHITE",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10720572/2019/11/8/82b96ef4-ae2c-40bf-b0dd-a6aefa92f9841573208591349-Nike-Therma-Mens-Full-Zip-Training-Hoodie-2551573208589214-1.jpg",
+      "price": 600,
+      "size": [ "XS", "S", "M", "L", "XL" ],
+      "imageArray": [
+        "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10720572/2019/11/8/82b96ef4-ae2c-40bf-b0dd-a6aefa92f9841573208591349-Nike-Therma-Mens-Full-Zip-Training-Hoodie-2551573208589214-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10720572/2019/11/8/a6e93f0b-10c0-4a2a-8502-32e908a6e8f71573208591306-Nike-Therma-Mens-Full-Zip-Training-Hoodie-2551573208589214-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10720572/2019/11/8/00f81d36-adf3-4eb9-ba13-1b21934c7a0d1573208591259-Nike-Therma-Mens-Full-Zip-Training-Hoodie-2551573208589214-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10720572/2019/11/8/501ca5f2-74b2-49c3-83d1-d0cc39204e421573208591217-Nike-Therma-Mens-Full-Zip-Training-Hoodie-2551573208589214-4.jpg"
+      ]
+    },
+    {
+      "category_id": "1",
+      "id": 2,
+      "name": "BROWN",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10565486/2019/11/19/3fc0e776-deff-4e70-826a-4cfb495d1a421574167271777-HRX-by-Hrithik-Roshan-Men-Tshirts-3091574167270792-1.jpg",
+      "price": 1000,
+      "size": [ "XS", "S", "M", "L", "XL" ],
+      "imageArray": [ "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10565486/2019/11/19/3fc0e776-deff-4e70-826a-4cfb495d1a421574167271777-HRX-by-Hrithik-Roshan-Men-Tshirts-3091574167270792-1.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10565486/2019/11/19/2970ebfe-de7f-4da2-8534-3ba2b7e921d11574167271734-HRX-by-Hrithik-Roshan-Men-Tshirts-3091574167270792-2.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10565486/2019/11/19/ee55df6a-56b5-4ea9-a90b-adfbe74586a71574167271694-HRX-by-Hrithik-Roshan-Men-Tshirts-3091574167270792-3.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10565486/2019/11/19/279fd4ea-d51a-4b40-bfdb-3cfe9b3ab6831574167271655-HRX-by-Hrithik-Roshan-Men-Tshirts-3091574167270792-4.jpg" ]
+    },
+    {
+      "category_id": "1",
+      "id": 3,
+      "name": "HRX BROWN",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10106049/2019/11/18/6934b0d1-6c85-457c-a533-49e6d1f5c3221574060295630-HRX-by-Hrithik-Roshan-Men-Black-Solid-Slim-Fit-Training-Jogg-1.jpg",
+      "price": 1200,
+      "size": [ "XS", "S", "M", "L", "XL" ],
+      "imageArray": [ "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10106049/2019/11/18/6934b0d1-6c85-457c-a533-49e6d1f5c3221574060295630-HRX-by-Hrithik-Roshan-Men-Black-Solid-Slim-Fit-Training-Jogg-1.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10106049/2019/11/18/ba747c27-a688-499f-abc3-3613c77f00be1574060295582-HRX-by-Hrithik-Roshan-Men-Black-Solid-Slim-Fit-Training-Jogg-2.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10106049/2019/11/18/e43927e9-89de-43e7-9f64-21a7bb249ccb1574060295534-HRX-by-Hrithik-Roshan-Men-Black-Solid-Slim-Fit-Training-Jogg-3.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10106049/2019/11/18/020ec909-db7c-4df9-b95d-c59b35478f0f1574060295484-HRX-by-Hrithik-Roshan-Men-Black-Solid-Slim-Fit-Training-Jogg-4.jpg" ]
+    },
+    {
+      "category_id": "1",
+      "id": 4,
+      "name": "BLACK BOXES",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/713945/2016/7/21/11469105097319-HRX-by-Hrithik-Roshan-Grey-Melange-Sports-Training-Active-Sweatshirt-221469105096452-1.jpg",
+      "price": 700,
+      "size": [ "XS", "S", "M", "L", "XL" ],
+      "imageArray": [ "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/713945/2016/7/21/11469105097319-HRX-by-Hrithik-Roshan-Grey-Melange-Sports-Training-Active-Sweatshirt-221469105096452-1.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/713945/2016/7/21/11469105097291-HRX-by-Hrithik-Roshan-Grey-Melange-Sports-Training-Active-Sweatshirt-221469105096452-2.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/713945/2016/7/21/11469105097267-HRX-by-Hrithik-Roshan-Grey-Melange-Sports-Training-Active-Sweatshirt-221469105096452-3.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/713945/2016/7/21/11469105097230-HRX-by-Hrithik-Roshan-Grey-Melange-Sports-Training-Active-Sweatshirt-221469105096452-4.jpg" ]
+    },
+    {
+      "category_id": "1",
+      "id": 5,
+      "name": "GRADIENT",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10106297/2019/8/22/a087ef2b-a8b3-460b-aafc-abd1a8b62f0d1566458270723-HRX-by-Hrithik-Roshan-Men-Tshirts-9761566458269405-1.jpg",
+      "price": 1500,
+      "size": [ "XS", "S", "M", "L", "XL" ],
+      "imageArray": [ "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10106297/2019/8/22/a087ef2b-a8b3-460b-aafc-abd1a8b62f0d1566458270723-HRX-by-Hrithik-Roshan-Men-Tshirts-9761566458269405-1.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10106297/2019/8/22/885c334a-979d-486f-8de0-0cca8a4f59d81566458270700-HRX-by-Hrithik-Roshan-Men-Tshirts-9761566458269405-2.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10106297/2019/8/22/37c0cadc-4d9f-42a0-9fbd-2abf44bfce6a1566458270673-HRX-by-Hrithik-Roshan-Men-Tshirts-9761566458269405-3.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10106297/2019/8/22/932966aa-c507-4d6c-a27c-6b8ecc15be6c1566458270644-HRX-by-Hrithik-Roshan-Men-Tshirts-9761566458269405-4.jpg" ]
+    },
+    {
+      "category_id": "1",
+      "id": 6,
+      "name": "SILVER",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2444567/2019/7/12/cd0dc7e2-1645-4c48-8b58-ccdd4581a25a1562928779759-Mast--Harbour-Men-Blue-Slim-Fit-Linen-Casual-Shirt-158156292-1.jpg",
+      "price": 800,
+      "size": [ "XS", "S", "M", "L", "XL" ],
+      "imageArray": [ "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2444567/2019/7/12/cd0dc7e2-1645-4c48-8b58-ccdd4581a25a1562928779759-Mast--Harbour-Men-Blue-Slim-Fit-Linen-Casual-Shirt-158156292-1.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2444567/2019/7/12/070f262b-ee0e-48ce-a1c1-14e628aa32521562928779740-Mast--Harbour-Men-Blue-Slim-Fit-Linen-Casual-Shirt-158156292-2.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2444567/2019/7/12/6fd810a3-d553-4289-a59d-a3d691a0b4c61562928779721-Mast--Harbour-Men-Blue-Slim-Fit-Linen-Casual-Shirt-158156292-3.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2444567/2019/7/12/a5c8a936-5b68-4fe5-94c0-01c38417e4d61562928779697-Mast--Harbour-Men-Blue-Slim-Fit-Linen-Casual-Shirt-158156292-4.jpg" ]
+    },
+    {
+      "category_id": "1",
+      "id": 7,
+      "name": "LINEN",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10398447/2019/11/22/3c3d2c86-b23a-4ad2-a643-85d9dbdf7e731574398399126-Roadster-Men-Shirts-4501574398396801-1.jpg",
+      "price": 2000,
+      "size": [ "XS", "S", "M", "L", "XL" ],
+      "imageArray": [ "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10398447/2019/11/22/3c3d2c86-b23a-4ad2-a643-85d9dbdf7e731574398399126-Roadster-Men-Shirts-4501574398396801-1.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10398447/2019/11/22/d9d334fd-2e9d-424f-b59d-901c494cab831574398399080-Roadster-Men-Shirts-4501574398396801-2.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10398447/2019/11/22/420878cb-bba0-41f5-9a1c-24e79ebfb8d11574398398984-Roadster-Men-Shirts-4501574398396801-4.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10398447/2019/11/22/47db72b9-8396-4567-bafd-fa1ca2f705641574398398921-Roadster-Men-Shirts-4501574398396801-5.jpg" ]
+    },
+    {
+      "category_id": "1",
+      "id": 8,
+      "name": "BLACK",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2377182/2018/1/17/11516181439332-United-Colors-of-Benetton-Men-Blue-Slim-Fit-Solid-Casual-Shirt-1811516181439251-1.jpg",
+      "price": 1000,
+      "size": [ "XS", "S", "M", "L", "XL" ],
+      "imageArray": [ "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2377182/2018/1/17/11516181439332-United-Colors-of-Benetton-Men-Blue-Slim-Fit-Solid-Casual-Shirt-1811516181439251-1.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2377182/2018/1/17/11516181439309-United-Colors-of-Benetton-Men-Blue-Slim-Fit-Solid-Casual-Shirt-1811516181439251-2.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2377182/2018/1/17/11516181439295-United-Colors-of-Benetton-Men-Blue-Slim-Fit-Solid-Casual-Shirt-1811516181439251-3.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2377182/2018/1/17/11516181439261-United-Colors-of-Benetton-Men-Blue-Slim-Fit-Solid-Casual-Shirt-1811516181439251-5.jpg" ]
+    },
+    {
+      "category_id": "2",
+      "id": 1,
+      "name": "Rani Saree",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/5803872/2018/5/10/e36d964f-da74-4c07-acd4-b5cb81d6ee021525933565797-na-9581525933565562-1.jpg",
+      "price": 2100,
+      "size": [ "XS", "S", "M", "L", "XL" ],
+      "imageArray": [ "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/5803872/2018/5/10/e36d964f-da74-4c07-acd4-b5cb81d6ee021525933565797-na-9581525933565562-1.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/5803872/2018/5/10/b30b4585-c424-4314-b6db-0d12e34b07a61525933565768-na-9581525933565562-2.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/5803872/2018/5/10/a314d49a-42e9-4533-b588-6a89c2cbea331525933565728-na-9581525933565562-3.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/5803872/2018/5/10/9975de81-c891-4af1-94a7-0e93250cc91e1525933565667-na-9581525933565562-5.jpg" ]
+    },
+    {
+      "category_id": "2",
+      "id": 2,
+      "name": "Peach milk",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/8802271/2019/2/25/4265862d-956f-44a3-80b0-89147b9fe18b1551097050778-StyleStone-Womens-Tie-up-Rainbow-Print-Maxi-dress-4391551097-1.jpg",
+      "price": 2500,
+      "size": [ "XS", "S", "M", "L", "XL" ],
+      "imageArray": [ "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/8802271/2019/2/25/4265862d-956f-44a3-80b0-89147b9fe18b1551097050778-StyleStone-Womens-Tie-up-Rainbow-Print-Maxi-dress-4391551097-1.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/8802271/2019/2/25/2f73f2ef-5db5-4851-9011-95c8f8707fa61551097050757-StyleStone-Womens-Tie-up-Rainbow-Print-Maxi-dress-4391551097-2.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/8802271/2019/2/25/438e067e-0bd5-4cc9-b4f3-cdeffd4f14d21551097050735-StyleStone-Womens-Tie-up-Rainbow-Print-Maxi-dress-4391551097-3.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/8802271/2019/2/25/1feb60e1-927e-475d-992f-7267223c0ce01551097050697-StyleStone-Womens-Tie-up-Rainbow-Print-Maxi-dress-4391551097-5.jpg" ]
+    },
+    {
+      "category_id": "2",
+      "id": 3,
+      "name": "Rani",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7687315/2018/10/29/8d26a002-22c6-4172-acbe-aaff7b8be18f1540809450641-SASSAFRAS-Women-Dresses-6531540809450526-1.jpg",
+      "price": 5000,
+      "size": [ "XS", "S", "M", "L", "XL" ],
+      "imageArray": [ "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7687315/2018/10/29/8d26a002-22c6-4172-acbe-aaff7b8be18f1540809450641-SASSAFRAS-Women-Dresses-6531540809450526-1.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7687315/2018/10/29/8c9e2c35-2b71-436a-a9bb-5df59018995a1540809450624-SASSAFRAS-Women-Dresses-6531540809450526-2.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7687315/2018/10/29/5fedc6f6-49a3-4627-800a-3af011fbd64d1540809450607-SASSAFRAS-Women-Dresses-6531540809450526-3.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7687315/2018/10/29/1122f229-bd8e-4478-9233-a0aa66da3c941540809450592-SASSAFRAS-Women-Dresses-6531540809450526-4.jpg" ]
+    },
+    {
+      "category_id": "2",
+      "id": 4,
+      "name": "Angel Blue",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7413632/2018/9/21/0977813b-6e5f-474c-a545-df8e67e5f0ea1537530393736-SASSAFRAS-Women-Dresses-9851537530393557-1.jpg",
+      "price": 5000,
+      "size": [ "XS", "S", "M", "L", "XL" ],
+      "imageArray": [ "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7413632/2018/9/21/0977813b-6e5f-474c-a545-df8e67e5f0ea1537530393736-SASSAFRAS-Women-Dresses-9851537530393557-1.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7413632/2018/9/21/56db7cfa-27b0-48d7-abb7-b192e9633d7e1537530393710-SASSAFRAS-Women-Dresses-9851537530393557-2.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7413632/2018/9/21/7ea06df1-108a-4201-a92e-06bb8b569f6f1537530393689-SASSAFRAS-Women-Dresses-9851537530393557-3.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7413632/2018/9/21/7495f515-7ea6-46a2-be1f-169f44e817641537530393665-SASSAFRAS-Women-Dresses-9851537530393557-4.jpg" ]
+    },
+    {
+      "category_id": "2",
+      "id": 5,
+      "name": "Bhagalpuri",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/6613530/2018/6/5/8ff9faae-9ce8-43c4-8b92-cb64578867c41528199673189-Vishudh-Women-Kurtas-4861528199672906-1.jpg",
+      "price": 1500,
+      "size": [ "XS", "S", "M", "L", "XL" ],
+      "imageArray": [ "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/6613530/2018/6/5/8ff9faae-9ce8-43c4-8b92-cb64578867c41528199673189-Vishudh-Women-Kurtas-4861528199672906-1.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/6613530/2018/6/5/eaec4def-c8ae-4db3-9cc9-fe5549a3003f1528199673160-Vishudh-Women-Kurtas-4861528199672906-2.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/6613530/2018/6/5/56642892-94ec-4b19-83f4-5a26bc4e72201528199673133-Vishudh-Women-Kurtas-4861528199672906-3.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/6613530/2018/6/5/116f5ffb-2159-4f71-9e29-6de7956cf8061528199673113-Vishudh-Women-Kurtas-4861528199672906-4.jpg" ]
+    },
+    {
+      "category_id": "2",
+      "id": 6,
+      "name": "Silk",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/6766963/2018/7/24/b1851f55-6201-487d-9599-7caa889600131532423519937-Vishudh-Women-Kurtas-7351532423518612-1.jpg",
+      "price": 10000,
+      "size": [ "XS", "S", "M", "L", "XL" ],
+      "imageArray": [ "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/6766963/2018/7/24/b1851f55-6201-487d-9599-7caa889600131532423519937-Vishudh-Women-Kurtas-7351532423518612-1.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/6766963/2018/7/24/f02daff9-6322-4c9f-8c87-51b7a5b9b0eb1532423519913-Vishudh-Women-Kurtas-7351532423518612-2.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/6766963/2018/7/24/4f70002e-5c47-464b-a166-9f9726ddabc61532423519891-Vishudh-Women-Kurtas-7351532423518612-3.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/6766963/2018/7/24/bdf44c6a-27f0-46aa-b513-b0aeb7b7d6a61532423519873-Vishudh-Women-Kurtas-7351532423518612-4.jpg" ]
+    },
+    {
+      "category_id": "2",
+      "id": 7,
+      "name": "Olive Tissue",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2076229/2017/8/30/11504083411522-Vishudh-Women-Kurtas-9821504083411232-1.jpg",
+      "price": 1800,
+      "size": [ "XS", "S", "M", "L", "XL" ],
+      "imageArray": [ "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2076229/2017/8/30/11504083411522-Vishudh-Women-Kurtas-9821504083411232-1.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2076229/2017/8/30/11504083411490-Vishudh-Women-Kurtas-9821504083411232-2.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2076229/2017/8/30/11504083411460-Vishudh-Women-Kurtas-9821504083411232-3.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2076229/2017/8/30/11504083411425-Vishudh-Women-Kurtas-9821504083411232-4.jpg" ]
+    },
+    {
+      "category_id": "2",
+      "id": 8,
+      "name": "Simply sober",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7572964/2018/10/17/d2b05d1e-3ab4-49fb-b0d7-32c8f055ceaf1539775558586-Vishudh-Women-Kurta-Sets-4971539775555649-1.jpg",
+      "price": 3000,
+      "size": [ "XS", "S", "M", "L", "XL" ],
+      "imageArray": [ "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7572964/2018/10/17/d2b05d1e-3ab4-49fb-b0d7-32c8f055ceaf1539775558586-Vishudh-Women-Kurta-Sets-4971539775555649-1.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7572964/2018/10/17/4f1fbf0b-a9ba-4db5-8a83-4c215ec636341539775558568-Vishudh-Women-Kurta-Sets-4971539775555649-2.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7572964/2018/10/17/3d1783d4-269e-4e61-84d4-ca0696456e051539775558547-Vishudh-Women-Kurta-Sets-4971539775555649-3.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7572964/2018/10/17/16a7b450-353d-4bec-bd2b-128736224a5a1539775558492-Vishudh-Women-Kurta-Sets-4971539775555649-5.jpg" ]
+    },
+    {
+      "category_id": "3",
+      "id": 1,
+      "name": "Black Shoe",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/productimage/2019/3/10/f299d7ac-aa3d-4ca4-8cfd-513f177ab4af1552184493824-1.jpg",
+      "price": 3000,
+      "size": [ "UK6", "UK7", "UK8", "UK9", "UK10" ],
+      "imageArray": [ "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/productimage/2019/3/10/f299d7ac-aa3d-4ca4-8cfd-513f177ab4af1552184493824-1.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/productimage/2019/3/10/023374c6-8747-4280-98a5-ecd7382d7bff1552184493844-2.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/productimage/2019/3/10/0328880b-dd7e-4b85-a40b-147f5fa6d0731552184493870-3.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/productimage/2019/3/10/0951808b-2d4b-49db-b3cd-eeb09bbc27441552184493897-4.jpg" ]
+    },
+    {
+      "category_id": "3",
+      "id": 2,
+      "name": "Grey Show",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7041152/2018/7/30/eb794a56-38ab-45bb-a836-89899f5550d01532944749137-Puma-Men-Grey-Running-Shoes-8291532944748944-1.jpg",
+      "price": 4000,
+      "size": [ "UK6", "UK7", "UK8", "UK9", "UK10" ],
+      "imageArray": [ "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7041152/2018/7/30/eb794a56-38ab-45bb-a836-89899f5550d01532944749137-Puma-Men-Grey-Running-Shoes-8291532944748944-1.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7041152/2018/7/30/763314ef-86d8-4b18-9573-c574210b710c1532944749106-Puma-Men-Grey-Running-Shoes-8291532944748944-2.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7041152/2018/7/30/75f37182-23f3-42a7-a5e7-1b5dca667b2c1532944749073-Puma-Men-Grey-Running-Shoes-8291532944748944-3.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7041152/2018/7/30/28723a15-2adc-4f1b-be4b-1e90da34a1631532944749048-Puma-Men-Grey-Running-Shoes-8291532944748944-4.jpg" ]
+    },
+    {
+      "category_id": "3",
+      "id": 3,
+      "name": "HANDMADE",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/5966566/2019/5/22/a6c08e60-f81f-4552-9f46-746f0743ed521558525489000-WROGN-Men-Brown-Sneakers-7831558525487532-1.jpg",
+      "price": 3000,
+      "size": [ "UK6", "UK7", "UK8", "UK9", "UK10" ],
+      "imageArray": [ "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/5966566/2019/5/22/a6c08e60-f81f-4552-9f46-746f0743ed521558525489000-WROGN-Men-Brown-Sneakers-7831558525487532-1.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/5966566/2019/5/22/6b1bd2aa-1eba-426b-a2f0-bbaa39434fbb1558525488983-WROGN-Men-Brown-Sneakers-7831558525487532-2.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/5966566/2019/5/22/e938947e-4808-4b74-8b0e-bb9884c6a2281558525488969-WROGN-Men-Brown-Sneakers-7831558525487532-3.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/5966566/2019/5/22/9d559766-6ccd-471e-91b4-a4a074a501a41558525488953-WROGN-Men-Brown-Sneakers-7831558525487532-4.jpg" ]
+    },
+    {
+      "category_id": "3",
+      "id": 4,
+      "name": "Nike Blue",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10714442/2019/11/22/994fa025-589f-4556-9b0f-72b1839149f31574422601255-Nike-Men-Blue-Solid-KWAZI-Mid-Top-Sneakers-1791574422599008-1.jpg",
+      "price": 4000,
+      "size": [ "UK6", "UK7", "UK8", "UK9", "UK10" ],
+      "imageArray": [ "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10714442/2019/11/22/994fa025-589f-4556-9b0f-72b1839149f31574422601255-Nike-Men-Blue-Solid-KWAZI-Mid-Top-Sneakers-1791574422599008-1.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10714442/2019/11/22/3578670a-06c7-4538-bdcd-e55a91a3907a1574422601219-Nike-Men-Blue-Solid-KWAZI-Mid-Top-Sneakers-1791574422599008-2.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10714442/2019/11/22/a95a8ed1-f09d-488b-bbb3-a584c76253341574422601139-Nike-Men-Blue-Solid-KWAZI-Mid-Top-Sneakers-1791574422599008-4.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10714442/2019/11/22/a42df97c-7497-415f-9fef-3f6e88f5cf9b1574422601093-Nike-Men-Blue-Solid-KWAZI-Mid-Top-Sneakers-1791574422599008-5.jpg" ]
+    },
+    {
+      "category_id": "3",
+      "id": 5,
+      "name": "Locomotive Casual",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/9785495/2019/6/14/906f1f81-db79-481b-9962-6306abe4a1bf1560500752934-LOCOMOTIVE-Men-Grey-Sneakers-5091560500751016-1.jpg",
+      "price": 2000,
+      "size": [ "UK6", "UK7", "UK8", "UK9", "UK10" ],
+      "imageArray": [ "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/9785495/2019/6/14/906f1f81-db79-481b-9962-6306abe4a1bf1560500752934-LOCOMOTIVE-Men-Grey-Sneakers-5091560500751016-1.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/9785495/2019/6/14/c4102ac3-cdbd-4b18-8e8b-c75ba64a1f931560500752909-LOCOMOTIVE-Men-Grey-Sneakers-5091560500751016-2.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/9785495/2019/6/14/17be7846-0d6c-4f46-9819-41886aaa7e751560500752883-LOCOMOTIVE-Men-Grey-Sneakers-5091560500751016-3.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/9785495/2019/6/14/44f4ea79-4128-425a-a4b1-dc0a45d2a2ad1560500752826-LOCOMOTIVE-Men-Grey-Sneakers-5091560500751016-5.jpg" ]
+    },
+    {
+      "category_id": "3",
+      "id": 6,
+      "name": "San Frissco",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/1213117/2016/12/28/11482917426158-San-Frissco-Men-Brown-Solid-High-tops-Flat-Boots-5791482917425944-1.jpg",
+      "price": 3000,
+      "size": [ "UK6", "UK7", "UK8", "UK9", "UK10" ],
+      "imageArray": [ "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/1213117/2016/12/28/11482917426158-San-Frissco-Men-Brown-Solid-High-tops-Flat-Boots-5791482917425944-1.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/1213117/2016/12/28/11482917426136-San-Frissco-Men-Brown-Solid-High-tops-Flat-Boots-5791482917425944-2.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/1213117/2016/12/28/11482917426110-San-Frissco-Men-Brown-Solid-High-tops-Flat-Boots-5791482917425944-3.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/1213117/2016/12/28/11482917426090-San-Frissco-Men-Brown-Solid-High-tops-Flat-Boots-5791482917425944-4.jpg" ]
+    },
+
+    {
+      "category_id": "4",
+      "id": 1,
+      "name": "Marc Loire",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/4368681/2018/4/7/11523099481468-Marc-Loire-Women-Black-Shimmer-Block-Heels-9591523099481369-1.jpg",
+      "price": 2500,
+      "size": [ "UK3", "UK4", "UK5", "UK6", "UK7" ],
+      "imageArray": [ "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/4368681/2018/4/7/11523099481468-Marc-Loire-Women-Black-Shimmer-Block-Heels-9591523099481369-1.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/4368681/2018/4/7/11523099481580-Marc-Loire-Women-Black-Shimmer-Block-Heels-9591523099481369-2.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/4368681/2018/4/7/11523099481547-Marc-Loire-Women-Black-Shimmer-Block-Heels-9591523099481369-3.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/4368681/2018/4/7/11523099481523-Marc-Loire-Women-Black-Shimmer-Block-Heels-9591523099481369-4.jpg" ]
+    },
+    {
+      "category_id": "4",
+      "id": 2,
+      "name": "Ballerinas",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10637060/2019/11/2/c57e8d99-97cd-4f65-870f-cd3511812f571572690313095-Marc-Loire-Women-Grey--Pink-Striped-Ballerinas-6341572690311-1.jpg",
+      "price": 2500,
+      "size": [ "UK3", "UK4", "UK5", "UK6", "UK7" ],
+      "imageArray": [ "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10637060/2019/11/2/c57e8d99-97cd-4f65-870f-cd3511812f571572690313095-Marc-Loire-Women-Grey--Pink-Striped-Ballerinas-6341572690311-1.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10637060/2019/11/2/581212ec-c65e-402d-a6ff-d21ba4a380781572690313060-Marc-Loire-Women-Grey--Pink-Striped-Ballerinas-6341572690311-2.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10637060/2019/11/2/01736e49-fee8-4265-89bc-9aa2f128741e1572690313026-Marc-Loire-Women-Grey--Pink-Striped-Ballerinas-6341572690311-3.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10637060/2019/11/2/1f54cf22-5bb5-4ec7-a0d1-2cf669fbd4661572690312988-Marc-Loire-Women-Grey--Pink-Striped-Ballerinas-6341572690311-4.jpg" ]
+    },
+    {
+      "category_id": "4",
+      "id": 3,
+      "name": "Mochi",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/1940490/2017/6/1/11496296192235-Mochi-Women-Flats-8251496296192010-1.jpg",
+      "price": 2500,
+      "size": [ "UK6", "UK7", "UK8", "UK9", "UK10" ],
+      "imageArray": [ "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/1940490/2017/6/1/11496296192235-Mochi-Women-Flats-8251496296192010-1.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/1940490/2017/6/1/11496296192211-Mochi-Women-Flats-8251496296192010-2.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/1940490/2017/6/1/11496296192190-Mochi-Women-Flats-8251496296192010-3.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/1940490/2017/6/1/11496296192169-Mochi-Women-Flats-8251496296192010-4.jpg" ]
+    },
+    {
+      "category_id": "4",
+      "id": 4,
+      "name": "Anouk Peach",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10741236/2019/10/25/83f8d266-b0a7-4de5-85aa-597a26f4c1b61571995247228-Anouk-Women-Flats-6591571995245110-1.jpg",
+      "price": 2500,
+      "size": [ "UK3", "UK4", "UK5", "UK6", "UK7" ],
+      "imageArray": [ "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10741236/2019/10/25/83f8d266-b0a7-4de5-85aa-597a26f4c1b61571995247228-Anouk-Women-Flats-6591571995245110-1.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10741236/2019/10/25/5fb2488c-fcad-48b6-bec2-d41e384b8e031571995247140-Anouk-Women-Flats-6591571995245110-2.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10741236/2019/10/25/feb7e84b-1e85-4fc1-889a-5b9ac4cefd321571995247081-Anouk-Women-Flats-6591571995245110-3.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10741236/2019/10/25/6caf9fa2-8806-48b4-9c35-f39997b84c2d1571995247004-Anouk-Women-Flats-6591571995245110-4.jpg" ]
+    },
+    {
+      "category_id": "4",
+      "id": 5,
+      "name": "Black Pumps",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/9694465/2019/6/10/7536a92a-19ee-4258-a0cf-09089607c0161560159612242-DOROTHY-PERKINS-Women-Flats-7671560159610969-1.jpg",
+      "price": 2500,
+      "size": [ "UK3", "UK4", "UK5", "UK6", "UK7" ],
+      "imageArray": [ "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/9694465/2019/6/10/7536a92a-19ee-4258-a0cf-09089607c0161560159612242-DOROTHY-PERKINS-Women-Flats-7671560159610969-1.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/9694465/2019/6/10/dc06ba85-e661-43b6-96cd-ed63adfabbaf1560159612222-DOROTHY-PERKINS-Women-Flats-7671560159610969-2.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/9694465/2019/6/10/af8b6b98-ae44-4a52-9d24-25430358cd231560159612202-DOROTHY-PERKINS-Women-Flats-7671560159610969-3.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/9694465/2019/6/10/eba88f0b-9e86-47fc-afa8-173f361703151560159612186-DOROTHY-PERKINS-Women-Flats-7671560159610969-4.jpg" ]
+    },
+    {
+      "category_id": "4",
+      "id": 6,
+      "name": "Carlton London",
+      "qty": 1,
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10856578/2019/11/12/b16d1576-a5cf-4e18-b1a0-7080523c46d01573557809316-Carlton-London-Women-Casual-Shoes-4161573557806434-1.jpg",
+      "price": 2500,
+      "size": [ "UK3", "UK4", "UK5", "UK6", "UK7" ],
+      "imageArray": [ "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10856578/2019/11/12/b16d1576-a5cf-4e18-b1a0-7080523c46d01573557809316-Carlton-London-Women-Casual-Shoes-4161573557806434-1.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10856578/2019/11/12/25be185d-116f-4098-9ece-f6a4b8beea9a1573557809260-Carlton-London-Women-Casual-Shoes-4161573557806434-2.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10856578/2019/11/12/3fb04405-5304-4d49-af72-b4170818b40b1573557809176-Carlton-London-Women-Casual-Shoes-4161573557806434-3.jpg", "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10856578/2019/11/12/21c90c66-5f8f-4b40-9e13-4e32bbb716c41573557809113-Carlton-London-Women-Casual-Shoes-4161573557806434-4.jpg" ]
+    }
+  ],
+
+  "categories": [
+    {
+      "categoryID": "1",
+      "id": 1,
+      "categoryLabel": "Men's Wear",
+      "categoryImage": "https://arcdeepinternational.weebly.com/uploads/1/6/5/1/16518022/_9149826_orig.jpg"
+    },
+    {
+      "categoryID": "2",
+      "id": 2,
+      "categoryLabel": "Women's Wear",
+      "categoryImage": "https://images.unsplash.com/photo-1615332858674-7c78a52a5367?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
+    },
+    {
+      "categoryID": "3",
+      "id": 3,
+      "categoryLabel": "Men's Footwear",
+      "categoryImage": "https://1.bp.blogspot.com/-BRs3qXtfmHs/VaFGLrNlnOI/AAAAAAAAPHc/91exgzS3-2g/s1600/Shoe%2Bcollection%2B2015%2Bmens%2Bshoes.png"
+    },
+    {
+      "categoryID": "4",
+      "id": 4,
+      "categoryLabel": "Women's Footwear",
+      "categoryImage": "https://previews.123rf.com/images/leszekczerwonka/leszekczerwonka1704/leszekczerwonka170400220/76679372-collection-of-women-s-shoes-on-wooden-background.jpg"
+    }
+  ],
+
+  "users": [
+    {
+      "username": "testUser1",
+      "password": "1234"    
+    }
+  ]
+}
+

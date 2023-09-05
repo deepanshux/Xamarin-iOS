@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+        <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
+        <ProjectGuid>{D3A537C3-0FEA-45C2-8B78-7A2FE8941D88}</ProjectGuid>
+        <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+        <TemplateGuid>{edc1b0fa-90cd-4038-8fad-98fe74adb368}</TemplateGuid>
+        <OutputType>Exe</OutputType>
+        <RootNamespace>Xamarin_Sample_App</RootNamespace>
+        <AssemblyName>Xamarin_Sample_App</AssemblyName>
+        <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
+        <MtouchEnableSGenConc>true</MtouchEnableSGenConc>
+        <MtouchHttpClientHandler>NSUrlSessionHandler</MtouchHttpClientHandler>
+        <RestoreProjectStyle>PackageReference</RestoreProjectStyle>
+        <ProvisioningType>automatic</ProvisioningType>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhoneSimulator' ">
+        <DebugSymbols>true</DebugSymbols>
+        <DebugType>portable</DebugType>
+        <Optimize>false</Optimize>
+        <OutputPath>bin\iPhoneSimulator\Debug</OutputPath>
+        <DefineConstants>DEBUG</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+        <MtouchArch>x86_64</MtouchArch>
+        <MtouchLink>None</MtouchLink>
+        <MtouchDebug>true</MtouchDebug>
+        <MtouchExtraArgs>-gcc_flags "-ObjC"</MtouchExtraArgs>
+        <MtouchSdkVersion>16.0</MtouchSdkVersion>
+        <CodesignProvision>Automatic</CodesignProvision>
+        <CodesignKey>iPhone Developer</CodesignKey>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
+        <DebugType>none</DebugType>
+        <Optimize>true</Optimize>
+        <OutputPath>bin\iPhoneSimulator\Release</OutputPath>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+        <MtouchLink>None</MtouchLink>
+        <MtouchArch>x86_64</MtouchArch>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhone' ">
+        <DebugSymbols>true</DebugSymbols>
+        <DebugType>portable</DebugType>
+        <Optimize>false</Optimize>
+        <OutputPath>bin\iPhone\Debug</OutputPath>
+        <DefineConstants>DEBUG</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+        <MtouchArch>ARM64</MtouchArch>
+        <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+        <CodesignKey>iPhone Developer</CodesignKey>
+        <MtouchDebug>true</MtouchDebug>
+        <MtouchSdkVersion>16.0</MtouchSdkVersion>
+        <MtouchExtraArgs>-gcc_flags "-ObjC"</MtouchExtraArgs>
+        <MtouchLink>None</MtouchLink>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhone' ">
+        <DebugType>none</DebugType>
+        <Optimize>true</Optimize>
+        <OutputPath>bin\iPhone\Release</OutputPath>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+        <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+        <MtouchArch>ARM64</MtouchArch>
+        <CodesignKey>iPhone Developer</CodesignKey>
+    </PropertyGroup>
+    <ItemGroup>
+        <Reference Include="System" />
+        <Reference Include="System.Xml" />
+        <Reference Include="System.Core" />
+        <Reference Include="Xamarin.iOS" />
+        <Reference Include="KountDataCollector">
+          <HintPath>KountDataCollector.dll</HintPath>
+        </Reference>
+    </ItemGroup>
+    <ItemGroup>
+      <PackageReference Include="Xamarin.Essentials" Version="1.6.1" />
+      <PackageReference Include="Newtonsoft.Json">
+        <Version>13.0.2</Version>
+      </PackageReference>
+    </ItemGroup>
+    <ItemGroup>
+        <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json">
+            <Visible>false</Visible>
+        </ImageAsset>
+        <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon1024.png">
+            <Visible>false</Visible>
+        </ImageAsset>
+        <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon167.png">
+            <Visible>false</Visible>
+        </ImageAsset>
+        <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon120.png">
+            <Visible>false</Visible>
+        </ImageAsset>
+        <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon152.png">
+            <Visible>false</Visible>
+        </ImageAsset>
+        <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon180.png">
+            <Visible>false</Visible>
+        </ImageAsset>
+        <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon29.png">
+            <Visible>false</Visible>
+        </ImageAsset>
+        <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon40.png">
+            <Visible>false</Visible>
+        </ImageAsset>
+        <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon58.png">
+            <Visible>false</Visible>
+        </ImageAsset>
+        <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon76.png">
+            <Visible>false</Visible>
+        </ImageAsset>
+        <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon80.png">
+            <Visible>false</Visible>
+        </ImageAsset>
+        <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon87.png">
+            <Visible>false</Visible>
+        </ImageAsset>
+        <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon20.png">
+            <Visible>false</Visible>
+        </ImageAsset>
+        <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon60.png">
+            <Visible>false</Visible>
+        </ImageAsset>
+        <ImageAsset Include="Assets.xcassets\Contents.json" />
+        <ImageAsset Include="Assets.xcassets\xam.imageset\xam.png" />
+        <ImageAsset Include="Assets.xcassets\xam.imageset\Contents.json" />
+        <ImageAsset Include="Assets.xcassets\kount-central-logo.imageset\Contents.json" />
+        <ImageAsset Include="Assets.xcassets\kount-central-logo.imageset\kount-central-logo.jpg" />
+        <ImageAsset Include="Assets.xcassets\avatar.imageset\avatar.png" />
+        <ImageAsset Include="Assets.xcassets\avatar.imageset\Contents.json" />
+        <ImageAsset Include="Assets.xcassets\emptycart.imageset\Contents.json" />
+        <ImageAsset Include="Assets.xcassets\emptycart.imageset\emptycart.png" />
+    </ItemGroup>
+    <ItemGroup>
+        <Folder Include="Resources\" />
+        <Folder Include="Model\" />
+        <Folder Include="Services\" />
+        <Folder Include="Controllers\" />
+        <Folder Include="Controllers\Cart\" />
+        <Folder Include="Controllers\Home\" />
+        <Folder Include="Controllers\Payment\" />
+        <Folder Include="Controllers\Product\" />
+        <Folder Include="Controllers\User\" />
+    </ItemGroup>
+    <ItemGroup>
+        <InterfaceDefinition Include="LaunchScreen.storyboard" />
+        <InterfaceDefinition Include="Main.storyboard" />
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="Info.plist" />
+        <None Include="Entitlements.plist" />
+    </ItemGroup>
+    <ItemGroup>
+        <Compile Include="Main.cs" />
+        <Compile Include="AppDelegate.cs" />
+        <Compile Include="SceneDelegate.cs" />
+        <Compile Include="Services\ProductService.cs" />
+        <Compile Include="Services\UserService.cs" />
+        <Compile Include="Model\UserModel.cs" />
+        <Compile Include="Model\Product.cs" />
+        <Compile Include="Services\CategoryService.cs" />
+        <Compile Include="Model\CategoryModel.cs" />
+        <Compile Include="Model\PickerModel.cs" />
+        <Compile Include="Model\Items.cs" />
+        <Compile Include="Services\Services.cs" />
+        <Compile Include="Controllers\Cart\CartTableViewCell.cs" />
+        <Compile Include="Controllers\Cart\CartTableViewCell.designer.cs">
+          <DependentUpon>..\..\Cart\CartTableViewCell.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Controllers\Cart\CartTableViewSource.cs" />
+        <Compile Include="Controllers\Cart\CartViewController.cs" />
+        <Compile Include="Controllers\Cart\CartViewController.designer.cs">
+          <DependentUpon>..\..\Cart\CartViewController.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Controllers\Home\CategoryCollectionViewCell.cs" />
+        <Compile Include="Controllers\Home\CategoryCollectionViewCell.designer.cs">
+          <DependentUpon>..\..\Home\CategoryCollectionViewCell.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Controllers\Home\CategoryCollectionViewSource.cs" />
+        <Compile Include="Controllers\Home\HomeViewController.cs" />
+        <Compile Include="Controllers\Home\HomeViewController.designer.cs">
+          <DependentUpon>..\..\Home\HomeViewController.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Controllers\Home\TabViewController.cs" />
+        <Compile Include="Controllers\Home\TabViewController.designer.cs">
+          <DependentUpon>..\..\Home\TabViewController.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Controllers\Payment\AddressViewController.cs" />
+        <Compile Include="Controllers\Payment\AddressViewController.designer.cs">
+          <DependentUpon>..\..\Payment\AddressViewController.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Controllers\Payment\PaymentViewController.cs" />
+        <Compile Include="Controllers\Payment\PaymentViewController.designer.cs">
+          <DependentUpon>..\..\Payment\PaymentViewController.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Controllers\Product\ProductCollectionCell.cs" />
+        <Compile Include="Controllers\Product\ProductCollectionCell.designer.cs">
+          <DependentUpon>..\..\Product\ProductCollectionCell.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Controllers\Product\ProductCollectionViewSource.cs" />
+        <Compile Include="Controllers\Product\ProductDetailViewController.cs" />
+        <Compile Include="Controllers\Product\ProductDetailViewController.designer.cs">
+          <DependentUpon>..\..\Product\ProductDetailViewController.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Controllers\Product\ProductViewController.cs" />
+        <Compile Include="Controllers\Product\ProductViewController.designer.cs">
+          <DependentUpon>..\..\Product\ProductViewController.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Controllers\User\LoginViewController.cs" />
+        <Compile Include="Controllers\User\LoginViewController.designer.cs">
+          <DependentUpon>..\..\User\LoginViewController.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Controllers\User\ProfileViewController.cs" />
+        <Compile Include="Controllers\User\ProfileViewController.designer.cs">
+          <DependentUpon>..\..\User\ProfileViewController.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Controllers\User\SignUpViewController.cs" />
+        <Compile Include="Controllers\User\SignUpViewController.designer.cs">
+          <DependentUpon>..\..\User\SignUpViewController.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Controllers\User\ViewController.cs" />
+        <Compile Include="Controllers\User\ViewController.designer.cs">
+          <DependentUpon>..\..\User\ViewController.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Controllers\SampleUIViewController.cs" />
+        <Compile Include="Controllers\SampleUIViewController.designer.cs">
+          <DependentUpon>SampleUIViewController.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Controllers\Home\SearchDelegate.cs" />
+        <Compile Include="Controllers\Product\SearchDelegate.cs" />
+    </ItemGroup>
+    <ItemGroup>
+      <BundleResource Include="Services\Data.json">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </BundleResource>
+    </ItemGroup>
+    <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
+</Project>
